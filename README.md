@@ -1,0 +1,2 @@
+# recuperacionpractica5ejemplo3
+ejerciciopracticaqtgrafica
